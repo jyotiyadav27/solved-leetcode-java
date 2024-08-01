@@ -1,2 +1,2 @@
 # solved-leetcode-java
-Solved Leetcode Problmes categorised into various sub-sections for ease.
+Solved Leetcode problems categorised into various sub-sections for ease.
